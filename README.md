@@ -20,7 +20,7 @@ Ethiopia’s public transport faces:
 - Inefficient scheduling and routes
 - Lack of real-time updates for passengers
 - Overcrowding without advance notice
-- Poor communication between companies and passengers
+- Poor communication between companies,Drivers and passengers
 
 Our solution offers **tracking, route optimization, bus capacity monitoring, and feedback systems** to enhance efficiency, safety, and satisfaction.
 
